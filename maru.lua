@@ -37,7 +37,7 @@ _G.MainSettings = {
         [15] = "Portal-Portal",
         [16] = "Phoenix-Phoenix",
         [17] = "Sound-Sound",
-        [18] = 'Spider-Spider",
+        [18] = "Spider-Spider",
         [19] = "Love-Love",
         [20] = "Buddha-Buddha"
         }
