@@ -39,7 +39,7 @@ _G.MainSettings = {
         [17] = "Sound-Sound",
         [18] = 'Spider-Spider",
         [19] = "Love-Love",
-        [20] = "Buddha-Buddha",
+        [20] = "Buddha-Buddha"
         }
     }
 _G.Fruits_Settings = { -- ตั้งค่าผล
