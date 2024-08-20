@@ -18,7 +18,7 @@ _G.MainSettings = {
         ['CloseUI'] = true, -- ปิด Ui
         ["NotifycationExPRemove"] = true, -- ลบ ExP ที่เด้งตอนฆ่ามอน
         ['AFKCheck'] = 150, -- ถ้ายืนนิ่งเกินวิที่ตั้งมันจะรีเกม
-        ["LockFragments"] = 20000, -- ล็อคเงินม่วง
+        ["LockFragments"] = 100000, -- ล็อคเงินม่วง
         ["LockFruitsRaid"] = { -- ล็อคผลที่ไม่เอาไปลงดัน
         [1] = "Kitsune-Kitsune",
         [2] = "Leopard-Leopard",
@@ -62,11 +62,9 @@ _G.Races_Settings = { -- ตั้งค่าเผ่า
         ["v3"] = true,
         ["Races_Lock"] = {
             ["Races"] = { -- Select Races U want
-                ["Mink"] = true,
-                ["Human"] = true,
                 ["Fishman"] = true
             },
-            ["RerollsWhenFragments"] = 20000 -- Random Races When Your Fragments is >= Settings
+            ["RerollsWhenFragments"] = 98000 -- Random Races When Your Fragments is >= Settings
         }
     }
 }
